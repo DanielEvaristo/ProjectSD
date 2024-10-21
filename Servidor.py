@@ -3,7 +3,7 @@ import socket
 import threading
 
 # Configuración del servidor de descubrimiento
-host = 'localhost' #localhost
+host = '192.168.16.116' #localhost
 port = 5000
 buff = 1024
 
